@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./RootedCode.png)
 
 <h3 align="left">About me:</h3>
 
