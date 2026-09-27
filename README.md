@@ -1,4 +1,4 @@
-![Header](./RootedCode.png)
+![Header](./RootedCode-2.png)
 
 <h3 align="left">About me:</h3>
 
