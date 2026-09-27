@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I'm currently working on a side project: **[0xEngine](#link-coming-soon)** powered by **[lib0x](#link-coming-soon)**
+<!-- - 🔭 I'm currently working on a cross-platform game engine: **[0xEngine](#link-coming-soon)** powered by **[lib0x](#link-coming-soon)** -->
 
 - 🌱 I'm currently in school for **Network Engineering and Administration**
 
